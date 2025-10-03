@@ -32,7 +32,7 @@ const Auth = () => {
                         </div>
                         
                         <h1 className="text-2xl font-semibold text-gray-900 mb-2">
-                            Welcome to Resumind
+                            Welcome to ProfileSense
                         </h1>
                         <p className="text-gray-600 text-sm leading-relaxed">
                             Professional resume analysis powered by AI
