@@ -18,7 +18,7 @@ import {
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Resumind" },
+    { title: "ProfileSense" },
     { name: "description", content: "Smart feedback for your dream job!" },
   ];
 }
